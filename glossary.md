@@ -1,6 +1,7 @@
 
-1. 领域模型DDD
-* 测试驱动开发TDD
+* CommonJs、CMD、AMD、UMD
+* DDD（领域模型）
+* TDD（测试驱动开发）
 * Scrum
 * 单元测试
 * 函数式编程
@@ -31,7 +32,6 @@
 * 接口
 * 插件、模块、中间件
 * HTTP
-* CMD、AMD、UMD、CommonJs
 * BAAS、SAAS
 * 代理：反向代理、正向代理
 * 可视化
@@ -44,3 +44,11 @@
 * Time Slicing
 * Tree-shaking
 * 耦合、解耦
+* SPA
+* 静态化
+* 拓扑图
+* 管道
+* NoSQL
+* 跨平台
+* MVC、MVP、MVVM
+* MVP（最小化可行性产品）
