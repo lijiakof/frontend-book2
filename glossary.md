@@ -3,6 +3,8 @@
 * [CommonJs、CMD、AMD、UMD](./src/glossary/commonjs-cmd-amd-umd.md)
 * [什么是 CommonJs](./src/glossary/commonjs.md)
 * [什么是 CMD](./src/glossary/cmd.md)
+* [什么是 AMD](./src/glossary/amd.md)
+* [什么是 UMD](./src/glossary/umd.md)
 * [什么是 TDD](./src/glossary/tdd.md)
 * Scrum
 * MVC、MVP、MVVM
