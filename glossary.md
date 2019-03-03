@@ -1,10 +1,14 @@
 
-* CommonJs、CMD、AMD、UMD
-* DDD（领域模型）
-* TDD（测试驱动开发）
+* [CommonJs、CMD、AMD、UMD](./src/glossary/commonjs-cmd-amd-umd.md)
+* [CommonJs](./src/glossary/commonjs.md)
+* [TDD](./src/glossary/tdd.md)
 * Scrum
+* MVC、MVP、MVVM
+* MVP（最小化可行性产品）
+* 极限编程
 * 单元测试
 * 函数式编程
+* DDD（领域模型）
 * 区块链
 * 卷积神经网络
 * 事件驱动
@@ -50,5 +54,3 @@
 * 管道
 * NoSQL
 * 跨平台
-* MVC、MVP、MVVM
-* MVP（最小化可行性产品）
