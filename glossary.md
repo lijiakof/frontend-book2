@@ -6,22 +6,22 @@
 * [什么是 AMD](./src/glossary/amd.md)
 * [什么是 UMD](./src/glossary/umd.md)
 * [什么是 TDD](./src/glossary/tdd.md)
-* Scrum
-* MVC、MVP、MVVM
-* MVP（最小化可行性产品）
+* [什么是 Scrum](./src/glossary/scrum.md)
 * 极限编程
 * 单元测试
+* MVC、MVP、MVVM
+* MVP（最小化可行性产品）
 * 函数式编程
 * DDD（领域模型）
+* 面向切面 OAP
+* 面向对象 OOP
+* 面向接口
 * 区块链
 * 卷积神经网络
 * 事件驱动
 * DDos
 * 注入
 * 依赖注入
-* 面向切面 OAP
-* 面向对象 OOP
-* 面向接口
 * 跨域
 * 递归
 * DNS
