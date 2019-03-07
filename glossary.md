@@ -7,7 +7,7 @@
 * [什么是 UMD](./src/glossary/umd.md)
 * [什么是 TDD](./src/glossary/tdd.md)
 * [什么是 Scrum](./src/glossary/scrum.md)
-* 极限编程
+* [什么是 XP](./src/glossary/xp.md)
 * 单元测试
 * MVC、MVP、MVVM
 * MVP（最小化可行性产品）
