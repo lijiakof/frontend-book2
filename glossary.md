@@ -5,12 +5,13 @@
 * [什么是 CMD](./src/glossary/cmd.md)
 * [什么是 AMD](./src/glossary/amd.md)
 * [什么是 UMD](./src/glossary/umd.md)
-* [什么是 TDD](./src/glossary/tdd.md)
 * [什么是 Scrum](./src/glossary/scrum.md)
+* [什么是 TDD](./src/glossary/tdd.md)
 * [什么是 XP](./src/glossary/xp.md)
+* 结对编程 Pair Programming
+* MVP（最小化可行性产品）
 * 单元测试
 * MVC、MVP、MVVM
-* MVP（最小化可行性产品）
 * 函数式编程
 * DDD（领域模型）
 * 面向切面 OAP
@@ -26,6 +27,7 @@
 * 递归
 * DNS
 * CDN
+* HTTP
 * 断言
 * 敏捷
 * 里氏替换
@@ -34,12 +36,12 @@
 * 函数防抖和节流
 * 渐进式
 * ECMA
+* W3C
 * 响应式
 * 弹性
 * 协议
 * 接口
 * 插件、模块、中间件
-* HTTP
 * BAAS、SAAS
 * 代理：反向代理、正向代理
 * 可视化
