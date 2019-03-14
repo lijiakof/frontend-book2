@@ -54,8 +54,8 @@
 * 插件、模块、中间件
 * BAAS、SAAS
 * 可视化
-* 持续集成 CI
-* 抽象语法树 AST
+* CI 持续集成 
+* AST 抽象语法树
 * DOM、BOM、POM、COM、XOM
 * ORM 对象关系映射
 * Time Slicing
