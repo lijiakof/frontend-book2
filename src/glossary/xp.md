@@ -1,2 +1,2 @@
 # 什么是 XP
-ExtremeProgramming 极限编程
+XP 是极限编程 ExtremeProgramming 的英文简称。
