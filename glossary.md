@@ -1,14 +1,14 @@
 # 什么是？
 
-* [什么是 CommonJs](./src/glossary/commonjs.md)
-* [什么是 CMD](./src/glossary/cmd.md)
-* [什么是 AMD](./src/glossary/amd.md)
-* [什么是 UMD](./src/glossary/umd.md)
+* [什么是【CommonJs】](./src/glossary/commonjs.md)
+* [什么是【CMD】](./src/glossary/cmd.md)
+* [什么是【AMD】](./src/glossary/amd.md)
+* [什么是【UMD】](./src/glossary/umd.md)
 
-* [什么是 Scrum](./src/glossary/scrum.md)
-* [什么是 TDD](./src/glossary/tdd.md)
-* [什么是 XP](./src/glossary/xp.md)
-* 结对编程 Pair Programming
+* [什么是【Scrum】](./src/glossary/scrum.md)
+* [什么是【TDD】](./src/glossary/tdd.md)
+* [什么是【XP】](./src/glossary/xp.md)
+* [什么是【结对编程】](./src/glossary/pair-programming.md)
 * MVP（最小化可行性产品）
 * 单元测试
 * 断言
