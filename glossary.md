@@ -9,10 +9,10 @@
 * [什么是【TDD】](./src/glossary/tdd.md)
 * [什么是【XP】](./src/glossary/xp.md)
 * [什么是【结对编程】](./src/glossary/pair-programming.md)
-* MVP（最小化可行性产品）
+* [什么是【MVP】](./src/glossary/mvp.md)
 * 单元测试
 * 断言
-* 敏捷
+* 敏捷 
 
 * 函数式编程
 * DDD（领域模型）
