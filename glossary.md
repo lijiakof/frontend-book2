@@ -10,9 +10,9 @@
 * [什么是【XP】](./src/glossary/xp.md)
 * [什么是【结对编程】](./src/glossary/pair-programming.md)
 * [什么是【MVP】](./src/glossary/mvp.md)
+* [什么是【敏捷开发】](./src/glossary/agile-development.md)
 * 单元测试
 * 断言
-* 敏捷 
 
 * 函数式编程
 * DDD（领域模型）
