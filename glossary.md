@@ -11,10 +11,10 @@
 * [什么是【结对编程】](./src/glossary/pair-programming.md)
 * [什么是【MVP】](./src/glossary/mvp.md)
 * [什么是【敏捷开发】](./src/glossary/agile-development.md)
-* 单元测试
-* 断言
+* [什么是【单元测试】](./src/glossary/unit-test.md)
+* [什么是【断言】](./src/glossary/assert.md)
 
-* 函数式编程
+* [什么是【函数式编程】](./src/glossary/functional-programming.md)
 * DDD（领域模型）
 * 面向切面 OAP
 * 面向对象 OOP
