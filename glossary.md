@@ -15,10 +15,10 @@
 * [什么是【断言】](./src/glossary/assert.md)
 
 * [什么是【函数式编程】](./src/glossary/functional-programming.md)
-* DDD（领域模型）
-* 面向切面 OAP
-* 面向对象 OOP
+* [什么是【OOP】](./src/glossary/oop.md)
+* [什么是【OAP】](./src/glossary/oap.md)
 * 面向接口
+* DDD（领域模型）
 * MVC、MVP、MVVM
 * 事件驱动
 

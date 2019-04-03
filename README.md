@@ -1,6 +1,6 @@
 # 前端技术2（全栈）
 
-* [名词解释](./glossary.md)
+* [钛钶维基](./glossary.md)
 * 浏览器原理
     * HTTP
         * TCP/IP
