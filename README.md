@@ -4,6 +4,7 @@
 * 浏览器原理
     * HTTP
         * TCP/IP
+        * HTTP2.0
     * HTML
     * JavaScript
     * CSS
@@ -14,6 +15,7 @@
     * 观察者模式
     * 依赖注入
     * MVVM（Vue）
+        * 实现
     * ...
 * 异步编程
     * 事件发布/订阅模式
@@ -27,8 +29,11 @@
 * 工程化
     * Npm & Yarn
 * Nodejs 原理
+    * EventLoop
+    * 内存回收机制
     * 服务器端渲染技术（SSR）
     * Koa 原理
+* GraphQL
 * 跨平台
     * 为什么
     * 跨平台方案
