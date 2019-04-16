@@ -18,8 +18,9 @@
 * [什么是【OOP】](./src/glossary/oop.md)
 * [什么是【AOP】](./src/glossary/aop.md)
 * [什么是【IOP】](./src/glossary/iop.md)
-* DDD（领域模型）
-* MVC、MVP、MVVM
+* [什么是【DDD】](./src/glossary/ddd.md)
+* [什么是【MVC】](./src/glossary/mvc.md)
+* MVP、MVVM
 * 事件驱动
 
 * 递归
