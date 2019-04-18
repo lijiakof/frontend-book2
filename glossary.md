@@ -19,8 +19,9 @@
 * [什么是【AOP】](./src/glossary/aop.md)
 * [什么是【IOP】](./src/glossary/iop.md)
 * [什么是【DDD】](./src/glossary/ddd.md)
-* [什么是【MVC】](./src/glossary/mvc.md)
-* MVP、MVVM
+* [什么是【MVC】](./src/glossary/mvx-mvc.md)
+* [什么是【MVP】](./src/glossary/mvx-mvp.md)
+* MVVM
 * 事件驱动
 
 * 递归
