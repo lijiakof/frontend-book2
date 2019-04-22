@@ -21,7 +21,7 @@
 * [什么是【DDD】](./src/glossary/ddd.md)
 * [什么是【MVC】](./src/glossary/mvx-mvc.md)
 * [什么是【MVP】](./src/glossary/mvx-mvp.md)
-* MVVM
+* [什么是【MVVM】](./src/glossary/mvx-mvvm.md)
 * 事件驱动
 
 * 递归
