@@ -22,7 +22,7 @@
 * [什么是【MVC】](./src/glossary/mvx-mvc.md)
 * [什么是【MVP】](./src/glossary/mvx-mvp.md)
 * [什么是【MVVM】](./src/glossary/mvx-mvvm.md)
-* 事件驱动
+* [什么是【事件驱动】](./src/glossary/event-driven.md)
 
 * 递归
 * 里氏替换
