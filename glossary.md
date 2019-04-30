@@ -24,10 +24,13 @@
 * [什么是【MVVM】](./src/glossary/mvx-mvvm.md)
 * [什么是【事件驱动】](./src/glossary/event-driven.md)
 
-* 递归
-* 里氏替换
+
+* [什么是【递归】](./src/glossary/recursion.md)
+* [什么是【IOC】](./src/glossary/ioc.md)
+* [什么是【依赖注入】](./src/glossary/ioc-di.md)
+* [什么是【依赖查找】](./src/glossary/ioc-dl.md)
+* [什么是【里氏替换】](./src/glossary/lsp.md)
 * 迪米特法则
-* 依赖注入
 * 耦合、解耦
 
 * 区块链
