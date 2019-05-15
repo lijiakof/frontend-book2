@@ -24,14 +24,18 @@
 * [什么是【MVVM】](./src/glossary/mvx-mvvm.md)
 * [什么是【事件驱动】](./src/glossary/event-driven.md)
 
-
 * [什么是【递归】](./src/glossary/recursion.md)
 * [什么是【IOC】](./src/glossary/ioc.md)
 * [什么是【依赖注入】](./src/glossary/ioc-di.md)
 * [什么是【依赖查找】](./src/glossary/ioc-dl.md)
-* [什么是【里氏替换】](./src/glossary/lsp.md)
-* 迪米特法则
-* 耦合、解耦
+* [什么是【单一职责】](./src/glossary/dp-srp.md)
+* [什么是【里氏替换】](./src/glossary/dp-lsp.md)
+* [什么是【依赖倒置】](./src/glossary/dp-dip.md)
+* [什么是【接口隔离】](./src/glossary/dp-isp.md)
+* [什么是【迪米特法则】](./src/glossary/dp-lod.md)
+* [什么是【开闭原则】](./src/glossary/dp-ocd.md)
+* [什么是【设计原则】](./src/glossary/dp-def.md)
+* 耦合、解耦、内聚
 
 * 区块链
 * 去中心
