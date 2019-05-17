@@ -35,6 +35,7 @@
 * [什么是【迪米特法则】](./src/glossary/dp-lod.md)
 * [什么是【开闭原则】](./src/glossary/dp-ocd.md)
 * [什么是【设计原则】](./src/glossary/dp-def.md)
+* [什么是【耦合】](./src/glossary/coupling.md)
 * 耦合、解耦、内聚
 
 * 区块链
