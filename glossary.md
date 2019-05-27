@@ -36,17 +36,18 @@
 * [什么是【开闭原则】](./src/glossary/dp-ocd.md)
 * [什么是【设计原则】](./src/glossary/dp-def.md)
 * [什么是【耦合】](./src/glossary/coupling.md)
-* 耦合、解耦、内聚
+* [什么是【内聚】](./src/glossary/cohesion.md)
+* 高内聚、松解耦
 
-* 区块链
-* 去中心
-* DApp
-* 分布式
+* [什么是【区块链】](./src/glossary/blockchain.md)
+* [什么是【去中心化】](./src/glossary/decentralization.md)
+* [什么是【DApp】](./src/glossary/dapp.md)
+* [什么是【分布式】](./src/glossary/distributed.md)
 
-* DDos
-* 注入
-* 跨域
-* DNS
+* [什么是【DDos】](./src/glossary/ddos.md)
+* [什么是【注入】](./src/glossary/injection.md)
+* [什么是【跨域】](./src/glossary/cors.md)
+* [什么是【DNS】](./src/glossary/dns.md)
 * CDN
 * HTTP
 * QPS、RPS、TPS
