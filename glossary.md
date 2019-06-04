@@ -45,10 +45,11 @@
 * [什么是【分布式】](./src/glossary/distributed.md)
 
 * [什么是【DDos】](./src/glossary/ddos.md)
+* [什么是【DNS】](./src/glossary/dns.md)
+* [什么是【CDN】](./src/glossary/cdn.md)
+
 * [什么是【注入】](./src/glossary/injection.md)
 * [什么是【跨域】](./src/glossary/cors.md)
-* [什么是【DNS】](./src/glossary/dns.md)
-* CDN
 * HTTP
 * QPS、RPS、TPS
 * 代理：反向代理、正向代理
