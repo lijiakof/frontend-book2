@@ -56,13 +56,13 @@
 * [什么是【QPS】](./src/glossary/network-qps.md)
 * [什么是【TPS】](./src/glossary/network-tps.md)
 * [什么是【RPS】](./src/glossary/network-rps.md)
-* QPS、RPS、TPS
 * 协议
 
 * [什么是【卷积神经网络】](./src/glossary/cnn.md)
 * [什么是【ECMA】](./src/glossary/ecma.md)
 * [什么是【W3C】](./src/glossary/w3c.md)
 * [什么是【FHS】](./src/glossary/fhs.md)
+* [什么是【YUM】](./src/glossary/yum.md)
 * 函数防抖和节流
 * 渐进式
 * 响应式
@@ -71,15 +71,15 @@
 * 插件、模块、中间件
 * BAAS、SAAS
 * 可视化
-* CI 持续集成 
-* AST 抽象语法树
+* [什么是【CI】](./src/glossary/ci.md)CI 持续集成 
+* [什么是【AST】](./src/glossary/ast.md)
 * DOM、BOM、POM、COM、XOM
 * ORM 对象关系映射
 * Time Slicing
 * Tree-shaking
-* SPA
+* [什么是【SPA】](./src/glossary/spa.md)
 * 静态化
 * 拓扑图
 * 管道
-* NoSQL
+* [什么是【NoSQL】](./src/glossary/nosql.md)
 * 跨平台
